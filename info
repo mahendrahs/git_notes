@@ -1,2 +1,4 @@
 GIT is a Distributed Version Control System
 It stores the Snapshots
+
+GIT commits uses SHA-1 algorithm
